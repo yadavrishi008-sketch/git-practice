@@ -1,0 +1,1 @@
+this is my readme file by 30 folder 
